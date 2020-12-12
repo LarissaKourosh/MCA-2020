@@ -1,4 +1,4 @@
-| [Week 1](https://larissakourosh.github.io/MCA-2020/) | [Week 2](https://larissakourosh.github.io/MCA-2020/LabTasks/Week2/)
+| [Week 1](https://github.com/LarissaKourosh/MCA-2020) | [Week 2](https://github.com/LarissaKourosh/MCA-2020/tree/master/Labtasks/Week2)
 
 # Week 1: Musical Datasets
 
